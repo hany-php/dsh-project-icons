@@ -1,0 +1,6 @@
+# Project icons: a browser-side settings page that assigns an image to each
+# Workspace and shows it in the sidebar's project rows. The Host half is a
+# no-op; the Browser half does all the work.
+- insert:
+    - id: project-icons
+      name: 'dsh-project-icons'
